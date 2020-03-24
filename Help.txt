@@ -1,0 +1,62 @@
+
+G E N E R A L
+---------------------
+-This is a easy to use program for creating music events and lets you and you friends see who's going.
+
+
+C O M B O B O X
+---------------------
+ - To find a event from a specific genre, click the combo box that has the text genre and select a genre
+   that you like. The results will be displayed in the main table. There you can select whatever event you
+   like and se all the info.
+
+S E A R C H
+---------------------
+
+ - To search for specific event just click the text field in the right corner and type the name of the event or
+  a part of the name of the event you are looking for and press search. The results will be displayed in the main table.
+  There you can select the event and se all the info.
+
+
+B U T T O N S
+---------------------
+
+  - You have 4 buttons that do different things.
+
+  - |Add Person| The button that have the text Add person, when clicked it will open up a window where you can add people.
+
+  - |Add Concert | The button that have the text Add Concert, when clicked it will open up a window where you can Events.
+
+  - |I'm Goning | The button that have the text I'm going, when clicked it will open up a window where you can add you and your friends to a event.
+
+  - |Search | The button that have the text Search, when clicked it will execute your search.
+
+
+A D D  P E R S O N
+------------------------
+
+ - To add a new person, click on the button Add person and enter name, age and description about yourself.
+   Then click on add and you are stored in the database.
+
+
+A D D  C O N C E R T
+------------------------
+ - To add a new person, click on the button Add person and enter name, age and description about yourself.
+   Then click on add and you are stored in the database.
+
+
+I ' M  G O I N G
+------------------------
+ - to add yourself or a friend to a Event click on the button i'm going. Then first click on the event you
+   or your friend want to attend to, then you click on your name or friends name. when both are selected
+   click on the button that says Going and you will be added to the event.
+
+
+T A B L E S
+------------------------
+ - in the main window you will have 2 tables, One big for displaying events and one smaller for displaying people
+   who are attending the event. When you click on a event you will get the description of it in the bottom and all
+   the people attending on the right.
+
+   if you double click on a person that's attending on a event you will get a small
+   window with the info on that person.
