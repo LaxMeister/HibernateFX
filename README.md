@@ -1,2 +1,2 @@
-# SakilaFX
+# HibernateFX
 School Assignment.
